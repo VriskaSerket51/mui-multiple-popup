@@ -11,8 +11,16 @@
     "build:clean": "rimraf ./dist",
     "build": "npm run build:clean && npm run build:all"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VriskaSerket51/mui-multiple-popup.git"
+  },
   "author": "IREVES",
   "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/VriskaSerket51/mui-multiple-popup/issues"
+  },
+  "homepage": "https://github.com/VriskaSerket51/mui-multiple-popup#readme",
   "peerDependencies": {
     "@mui/icons-material": "^5.0.0",
     "@mui/material": "^5.0.0",
