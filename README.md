@@ -10,7 +10,7 @@ This package is for simple multi-popups, and also includes simple loading spinne
 
 ## Usage
 
-You can use various feature with just simpel import statement.
+You can use various feature with just simple import statement.
 
 ```typescript
 import Popup from "mui-multiple-popup";
