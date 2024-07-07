@@ -21,6 +21,7 @@
     "url": "https://github.com/VriskaSerket51/mui-multiple-popup/issues"
   },
   "homepage": "https://github.com/VriskaSerket51/mui-multiple-popup#readme",
+  "keywords": ["mui", "popup", "ui"],
   "peerDependencies": {
     "@mui/icons-material": "^5.0.0",
     "@mui/material": "^5.0.0",
