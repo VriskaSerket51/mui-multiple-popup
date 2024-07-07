@@ -1,6 +1,6 @@
 {
   "name": "mui-multiple-popup",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React MUI component for multiple popups.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -21,7 +21,11 @@
     "url": "https://github.com/VriskaSerket51/mui-multiple-popup/issues"
   },
   "homepage": "https://github.com/VriskaSerket51/mui-multiple-popup#readme",
-  "keywords": ["mui", "popup", "ui"],
+  "keywords": [
+    "mui",
+    "popup",
+    "ui"
+  ],
   "peerDependencies": {
     "@mui/icons-material": "^5.0.0",
     "@mui/material": "^5.0.0",
